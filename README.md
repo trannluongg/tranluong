@@ -12,18 +12,18 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Php | Laravel | Nodejs | Java | Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs | VueJs
-- 🛢 &nbsp; MySQL | Apache | Nginx | Docker
+- 🌐 &nbsp; HTML | CSS | JavaScript | SocketIO | Bootstrap | ReactJs | VueJs
+- 🛢 &nbsp; MySQL | MongoDB | Apache | Nginx | Docker
 - 🔧 &nbsp; Deployer | Git
 - 🖥 &nbsp; Linux | Window
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=trannluongg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tran Van Luong Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=trannluongg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Tran Van Luong Github Stats">
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trannluongg&layout=compact&text_color=daf7dc&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trannluongg&layout=compact&text_color=daf7dc&bg_color=222222)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
